@@ -8,6 +8,7 @@ test your work by running your code and the test specs!
 
 // Your code here 
 
+// test
 
 // 2. Declare a variable called `lastName` and assign it your last name
 //    as a string:
